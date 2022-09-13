@@ -1,0 +1,15 @@
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\bin\Debug\net6.0\Exercises.exe
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\bin\Debug\net6.0\Exercises.deps.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\bin\Debug\net6.0\Exercises.runtimeconfig.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\bin\Debug\net6.0\Exercises.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\bin\Debug\net6.0\Exercises.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\obj\Debug\net6.0\Exercises.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\obj\Debug\net6.0\Exercises.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\obj\Debug\net6.0\Exercises.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\obj\Debug\net6.0\Exercises.AssemblyInfo.cs
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\obj\Debug\net6.0\Exercises.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\obj\Debug\net6.0\Exercises.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\obj\Debug\net6.0\refint\Exercises.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\obj\Debug\net6.0\Exercises.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\obj\Debug\net6.0\Exercises.genruntimeconfig.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises\obj\Debug\net6.0\ref\Exercises.dll
