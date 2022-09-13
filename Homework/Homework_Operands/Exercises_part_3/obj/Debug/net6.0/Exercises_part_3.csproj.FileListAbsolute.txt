@@ -1,0 +1,15 @@
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\bin\Debug\net6.0\Exercises_part_3.exe
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\bin\Debug\net6.0\Exercises_part_3.deps.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\bin\Debug\net6.0\Exercises_part_3.runtimeconfig.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\bin\Debug\net6.0\Exercises_part_3.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\bin\Debug\net6.0\Exercises_part_3.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\obj\Debug\net6.0\Exercises_part_3.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\obj\Debug\net6.0\Exercises_part_3.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\obj\Debug\net6.0\Exercises_part_3.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\obj\Debug\net6.0\Exercises_part_3.AssemblyInfo.cs
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\obj\Debug\net6.0\Exercises_part_3.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\obj\Debug\net6.0\Exercises_part_3.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\obj\Debug\net6.0\refint\Exercises_part_3.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\obj\Debug\net6.0\Exercises_part_3.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\obj\Debug\net6.0\Exercises_part_3.genruntimeconfig.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Homework\Homework_Operands\Exercises_part_3\obj\Debug\net6.0\ref\Exercises_part_3.dll
