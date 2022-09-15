@@ -1,9 +1,9 @@
 ﻿string word = "w3schools";
 if(word.Length > 0)
 {
-    Console.WriteLine($"{word.Remove(0, 1)}");
-    Console.WriteLine($"{word.Remove(1, 1)}");
-    Console.WriteLine($"{word.Remove(2, 1)}");
+    Console.WriteLine(word.Remove(0, 1));
+    Console.WriteLine(word.Remove(1, 1));
+    Console.WriteLine(word.Remove(2, 1));
 
 }
 
