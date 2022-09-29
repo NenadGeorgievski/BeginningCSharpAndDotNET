@@ -1,0 +1,12 @@
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.deps.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\bin\Debug\net5.0\Ch09ClassLib.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.AssemblyInfo.cs
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\refint\Ch09ClassLib.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\Ch09ClassLib.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter09\Ch09\Ch09ClassLib\obj\Debug\net5.0\ref\Ch09ClassLib.dll
