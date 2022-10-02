@@ -21,6 +21,6 @@ namespace Ch10CardLib
             rank = newRank;
         }
 
-        public override string ToString() => "The " + rank + "of " + suit + "s";
+        public override string ToString() => "The " + rank + " of " + suit + "s";
     }
 }
