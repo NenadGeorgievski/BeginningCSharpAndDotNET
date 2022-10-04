@@ -1,0 +1,15 @@
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\bin\Debug\net6.0\Ch10.1Exercise.exe
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\bin\Debug\net6.0\Ch10.1Exercise.deps.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\bin\Debug\net6.0\Ch10.1Exercise.runtimeconfig.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\bin\Debug\net6.0\Ch10.1Exercise.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\bin\Debug\net6.0\Ch10.1Exercise.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\obj\Debug\net6.0\Ch10.1Exercise.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\obj\Debug\net6.0\Ch10.1Exercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\obj\Debug\net6.0\Ch10.1Exercise.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\obj\Debug\net6.0\Ch10.1Exercise.AssemblyInfo.cs
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\obj\Debug\net6.0\Ch10.1Exercise.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\obj\Debug\net6.0\Ch10.1Exercise.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\obj\Debug\net6.0\refint\Ch10.1Exercise.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\obj\Debug\net6.0\Ch10.1Exercise.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\obj\Debug\net6.0\Ch10.1Exercise.genruntimeconfig.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter10\Ch10Exercises\Ch10.1Exercise\obj\Debug\net6.0\ref\Ch10.1Exercise.dll
