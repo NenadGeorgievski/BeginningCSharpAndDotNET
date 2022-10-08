@@ -7,8 +7,17 @@ using System.Threading.Tasks;
 
 namespace Ch11CardLib
 {
-    public class CardCollection : CollectionBase
+    public class CardCollection : CollectionBase, ICloneable
     {
+        public object Clone()
+        {
+            CardCollection newCards = new CardCollection();
+            foreach(Card sourceCard in List)
+            {
+                newCards.Add((Card)sourceCard.Clone());
+            }
+            return newCards;
+        }
         public void Add(Card newCard) => List.Add(newCard);
         public void Remove(Card oldCard) => List.Remove(oldCard);
 

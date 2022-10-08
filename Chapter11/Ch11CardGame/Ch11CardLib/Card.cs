@@ -5,8 +5,9 @@ using System.Text;
 
 namespace Ch11CardLib
 {
-    public class Card
+    public class Card : ICloneable
     {
+        public object Clone() => MemberwiseClone();
         public Rank rank;
         public Suit suit;
 
