@@ -1,0 +1,16 @@
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\bin\Debug\net5.0\WriteFile.exe
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\bin\Debug\net5.0\WriteFile.deps.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\bin\Debug\net5.0\WriteFile.runtimeconfig.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\bin\Debug\net5.0\WriteFile.runtimeconfig.dev.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\bin\Debug\net5.0\WriteFile.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\bin\Debug\net5.0\WriteFile.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net5.0\WriteFile.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net5.0\WriteFile.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net5.0\WriteFile.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net5.0\WriteFile.AssemblyInfo.cs
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net5.0\WriteFile.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net5.0\WriteFile.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net5.0\refint\WriteFile.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net5.0\WriteFile.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net5.0\WriteFile.genruntimeconfig.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\WriteFile\obj\Debug\net5.0\ref\WriteFile.dll

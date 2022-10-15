@@ -1,0 +1,17 @@
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\bin\Debug\net5.0\StreamRead.exe
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\bin\Debug\net5.0\StreamRead.deps.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\bin\Debug\net5.0\StreamRead.runtimeconfig.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\bin\Debug\net5.0\StreamRead.runtimeconfig.dev.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\bin\Debug\net5.0\StreamRead.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\bin\Debug\net5.0\StreamRead.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\obj\Debug\net5.0\StreamRead.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\obj\Debug\net5.0\StreamRead.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\obj\Debug\net5.0\StreamRead.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\obj\Debug\net5.0\StreamRead.AssemblyInfo.cs
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\obj\Debug\net5.0\StreamRead.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\obj\Debug\net5.0\StreamRead.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\obj\Debug\net5.0\refint\StreamRead.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\obj\Debug\net5.0\StreamRead.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\obj\Debug\net5.0\StreamRead.genruntimeconfig.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\obj\Debug\net5.0\ref\StreamRead.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter14\StreamRead\bin\Debug\net5.0\Log.txt
