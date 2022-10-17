@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stories>
+	<story>
+		<title>
+			A house in Angier street.
+		</title>
+		<author>
+			<name>Sheridan Le Fanu</name>
+			<nationality>Irish</nationality>
+		</author>
+		<rating>eerie</rating>
+	</story>
+	<story>
+		<title>
+			The butcher.
+		</title>
+		<author>
+			<name>Unknown</name>
+			<nationality>Who knows</nationality>
+		</author>
+		<rating>spooky</rating>
+	</story>
+	<story>
+		<title>
+			The mullet.
+		</title>
+		<author>
+			<name>Freddie Krueger</name>
+			<nationality>American</nationality>
+		</author>
+		<rating>bedtime scarry</rating>
+	</story>
+	<story>
+		<title>
+			A house in Angier street.
+		</title>
+		<author>
+			<name>New Story</name>
+			<nationality>Irish</nationality>
+		</author>
+		<rating>cringy</rating>
+	</story>
+	
+	
+</stories>
