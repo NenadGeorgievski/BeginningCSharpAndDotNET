@@ -37,3 +37,44 @@ foreach (Book b in books2)
 {
     Console.WriteLine("code: {0} title: {1} author: {2}", b.code, b.title, b.author);
 }
+
+string jsonWeatherString = File.ReadAllText("../../../Weather.json");
+Weather weather = JsonSerializer.Deserialize<Weather>(jsonWeatherString);
+
+Console.WriteLine($"{nameof(weather.Date)} : {weather.Date.ToString()}");
+Console.WriteLine($"The temperature is: {weather.TemperatureCelsius}");
+Console.WriteLine($"So basically, it's {weather.Summary} outside.");
+Console.WriteLine("Dates available are: ");
+foreach (DateTime date in weather.DatesAvailable)
+{
+    if(weather.DatesAvailable.Last() == date)
+    {
+        Console.Write(date.ToString());
+    } else
+    {
+        Console.Write(date.ToString() + ", ");
+    }
+    
+}
+Console.WriteLine();
+Console.WriteLine($"The temperature ranges are: ");
+TemperatureRanges tempRanges = new TemperatureRanges();
+Ranges ranges = new Ranges();
+Console.WriteLine($"\t Cold - {nameof(weather.TemperatureRanges.Cold.High)} : {weather.TemperatureRanges.Cold.High}");
+Console.WriteLine($"\t Cold - {nameof(weather.TemperatureRanges.Cold.Low)} : {weather.TemperatureRanges.Cold.Low}");
+Console.WriteLine($"\t Hot - {nameof(weather.TemperatureRanges.Hot.High)} : {weather.TemperatureRanges.Hot.High}");
+Console.WriteLine($"\t Hot - {nameof(weather.TemperatureRanges.Hot.Low)} : {weather.TemperatureRanges.Hot.Low}");
+Console.WriteLine(tempRanges.Cold);
+Console.WriteLine("The weather in brief is: ");
+foreach(string word in weather.SummaryWords)
+{
+    if(weather.SummaryWords.Last() == word)
+    {
+        Console.Write(word);
+    } else
+    {
+        Console.Write(word + ", ");
+    }
+    
+}
+
