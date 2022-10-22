@@ -1,0 +1,15 @@
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\bin\Debug\net6.0\SelectDistinctQuery.exe
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\bin\Debug\net6.0\SelectDistinctQuery.deps.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\bin\Debug\net6.0\SelectDistinctQuery.runtimeconfig.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\bin\Debug\net6.0\SelectDistinctQuery.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\bin\Debug\net6.0\SelectDistinctQuery.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\obj\Debug\net6.0\SelectDistinctQuery.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\obj\Debug\net6.0\SelectDistinctQuery.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\obj\Debug\net6.0\SelectDistinctQuery.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\obj\Debug\net6.0\SelectDistinctQuery.AssemblyInfo.cs
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\obj\Debug\net6.0\SelectDistinctQuery.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\obj\Debug\net6.0\SelectDistinctQuery.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\obj\Debug\net6.0\refint\SelectDistinctQuery.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\obj\Debug\net6.0\SelectDistinctQuery.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\obj\Debug\net6.0\SelectDistinctQuery.genruntimeconfig.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\SelectDistinctQuery\obj\Debug\net6.0\ref\SelectDistinctQuery.dll

@@ -1,0 +1,15 @@
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\bin\Debug\net6.0\LargeNumberQuery.exe
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\bin\Debug\net6.0\LargeNumberQuery.deps.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\bin\Debug\net6.0\LargeNumberQuery.runtimeconfig.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\bin\Debug\net6.0\LargeNumberQuery.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\bin\Debug\net6.0\LargeNumberQuery.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.AssemblyInfo.cs
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\refint\LargeNumberQuery.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\LargeNumberQuery.genruntimeconfig.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\LargeNumberQuery\obj\Debug\net6.0\ref\LargeNumberQuery.dll

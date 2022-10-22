@@ -1,0 +1,15 @@
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\bin\Debug\net6.0\NumericAggregates.exe
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\bin\Debug\net6.0\NumericAggregates.deps.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\bin\Debug\net6.0\NumericAggregates.runtimeconfig.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\bin\Debug\net6.0\NumericAggregates.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\bin\Debug\net6.0\NumericAggregates.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\obj\Debug\net6.0\NumericAggregates.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\obj\Debug\net6.0\NumericAggregates.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\obj\Debug\net6.0\NumericAggregates.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\obj\Debug\net6.0\NumericAggregates.AssemblyInfo.cs
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\obj\Debug\net6.0\NumericAggregates.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\obj\Debug\net6.0\NumericAggregates.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\obj\Debug\net6.0\refint\NumericAggregates.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\obj\Debug\net6.0\NumericAggregates.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\obj\Debug\net6.0\NumericAggregates.genruntimeconfig.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\NumericAggregates\obj\Debug\net6.0\ref\NumericAggregates.dll
