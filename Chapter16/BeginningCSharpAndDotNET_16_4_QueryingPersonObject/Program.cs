@@ -19,7 +19,7 @@ List<Person> people = new List<Person>()
 
 };
 //Query synthax
-var queryResults = from p in people where p.LastName.StartsWith("F") select p;
+var queryResults = from p in people where p.LastName.StartsWith("F")  select p;
 
 foreach (var item in queryResults)
 {
@@ -34,8 +34,8 @@ foreach (var item in methodResults)
     Console.WriteLine($"{item.FirstName} {item.LastName} with the ripe old age of: {item.Age} has a last name that starts with F.");
 }
 Console.WriteLine();
-var result = people.Where(p => p.Age >= 21);
+var result = people.Where(p => p.Age >= 21).OrderBy(p => p.Age);
 foreach (var item in result)
 {
-    Console.WriteLine($"{item.FirstName} {item.LastName} has an age higher or equals to 21.");
+    Console.WriteLine($"{item.FirstName} {item.LastName} {item.Age} years old,  has an age higher or equals to 21.");
 }

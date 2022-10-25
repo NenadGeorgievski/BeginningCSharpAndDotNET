@@ -5,7 +5,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace SelectDistinctQuery
-{
     internal class Customer
     {
         public string ID { get; set; }

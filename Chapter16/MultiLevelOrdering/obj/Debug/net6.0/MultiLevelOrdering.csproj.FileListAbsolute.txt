@@ -1,0 +1,15 @@
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\obj\Debug\net6.0\MultiLevelOrdering.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\obj\Debug\net6.0\MultiLevelOrdering.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\obj\Debug\net6.0\MultiLevelOrdering.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\obj\Debug\net6.0\MultiLevelOrdering.AssemblyInfo.cs
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\obj\Debug\net6.0\MultiLevelOrdering.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\bin\Debug\net6.0\MultiLevelOrdering.exe
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\bin\Debug\net6.0\MultiLevelOrdering.deps.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\bin\Debug\net6.0\MultiLevelOrdering.runtimeconfig.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\bin\Debug\net6.0\MultiLevelOrdering.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\bin\Debug\net6.0\MultiLevelOrdering.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\obj\Debug\net6.0\MultiLevelOrdering.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\obj\Debug\net6.0\refint\MultiLevelOrdering.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\obj\Debug\net6.0\MultiLevelOrdering.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\obj\Debug\net6.0\MultiLevelOrdering.genruntimeconfig.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\MultiLevelOrdering\obj\Debug\net6.0\ref\MultiLevelOrdering.dll

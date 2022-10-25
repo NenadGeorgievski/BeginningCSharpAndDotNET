@@ -1,0 +1,15 @@
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\obj\Debug\net6.0\JoinQuery.csproj.AssemblyReference.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\obj\Debug\net6.0\JoinQuery.GeneratedMSBuildEditorConfig.editorconfig
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\obj\Debug\net6.0\JoinQuery.AssemblyInfoInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\obj\Debug\net6.0\JoinQuery.AssemblyInfo.cs
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\obj\Debug\net6.0\JoinQuery.csproj.CoreCompileInputs.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\bin\Debug\net6.0\JoinQuery.exe
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\bin\Debug\net6.0\JoinQuery.deps.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\bin\Debug\net6.0\JoinQuery.runtimeconfig.json
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\bin\Debug\net6.0\JoinQuery.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\bin\Debug\net6.0\JoinQuery.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\obj\Debug\net6.0\JoinQuery.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\obj\Debug\net6.0\refint\JoinQuery.dll
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\obj\Debug\net6.0\JoinQuery.pdb
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\obj\Debug\net6.0\JoinQuery.genruntimeconfig.cache
+E:\FullStackDevelopment\BeginningCSharpAndDotNET\Chapter16\JoinQuery\obj\Debug\net6.0\ref\JoinQuery.dll
