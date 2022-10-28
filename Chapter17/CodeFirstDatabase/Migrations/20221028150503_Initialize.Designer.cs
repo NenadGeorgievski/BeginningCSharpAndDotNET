@@ -10,8 +10,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CodeFirstDatabase.Migrations
 {
     [DbContext(typeof(BookContext))]
-    [Migration("20221024233533_Initial")]
-    partial class Initial
+    [Migration("20221028150503_Initialize")]
+    partial class Initialize
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

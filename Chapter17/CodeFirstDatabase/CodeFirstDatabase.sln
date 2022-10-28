@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32922.545
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstDatabase", "CodeFirstDatabase.csproj", "{CB0751CD-369F-41DE-9441-66C37023E261}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeFirstDatabase", "CodeFirstDatabase.csproj", "{49EAED04-A745-4EB0-B9B1-1840A54167FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CB0751CD-369F-41DE-9441-66C37023E261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CB0751CD-369F-41DE-9441-66C37023E261}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CB0751CD-369F-41DE-9441-66C37023E261}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CB0751CD-369F-41DE-9441-66C37023E261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49EAED04-A745-4EB0-B9B1-1840A54167FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49EAED04-A745-4EB0-B9B1-1840A54167FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49EAED04-A745-4EB0-B9B1-1840A54167FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49EAED04-A745-4EB0-B9B1-1840A54167FC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5393F46B-5833-492C-8F7B-1E0A0DEE365C}
+		SolutionGuid = {2616B7D9-A615-41C8-9293-717366AF1EC8}
 	EndGlobalSection
 EndGlobal
